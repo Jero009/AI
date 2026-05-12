@@ -1,0 +1,10 @@
+.gradle
+build/
+app/build/
+*.iml
+.idea/
+local.properties
+.DS_Store
+build_output.log
+test_output.log
+test_files.txt
